@@ -1,6 +1,6 @@
 # CodeYourFuture MongoDB Challenges
 
-MongoDB Challanges created for Students at CodeYourFuture.
+MongoDB Challenges created for Students at CodeYourFuture.
 
 ## Contribution Guide
 
